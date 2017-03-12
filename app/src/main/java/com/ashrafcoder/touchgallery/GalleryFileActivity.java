@@ -64,7 +64,7 @@ public class GalleryFileActivity extends Activity {
             @Override
             public void onItemChange(int currentPosition)
             {
-                Toast.makeText(GalleryFileActivity.this, "Current item is " + currentPosition, Toast.LENGTH_SHORT).show();
+                Toast.makeText(GalleryFileActivity.this, "Current Item Is " + currentPosition, Toast.LENGTH_SHORT).show();
             }
         });
         
