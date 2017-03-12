@@ -13,6 +13,7 @@
         <activity
             android:name=".GalleryUrlActivity"
             android:configChanges="orientation" >
+            
         </activity>
         <activity
             android:name=".GalleryFileActivity"
